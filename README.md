@@ -4,6 +4,10 @@ and their open source clones ...
 
 ## Arcade
 
+### Pacman
+
+   * [Pac-Man a tribute project](http://pacman.shaunew.com/) (Javascript)
+
 ### Outrun
 
    * [javascript-racer](https://github.com/jakesgordon/javascript-racer) (Javascript)
