@@ -2,11 +2,17 @@
 
 and their open source clones ...
 
+## NES
+
+### Super Mario Bros. 3
+
+   * [mariohtml5](https://github.com/robertkleffner/mariohtml5) (Javascript)
+
 ## SNES
 
 ### The Legend of Zelda: A Link to the Past
 
-   * [Solarus](https://github.com/christopho/solarus) (C++ + Lua)
+   * [Solarus](https://github.com/christopho/solarus) (C++, Lua)
 
 ## PC
 
@@ -17,3 +23,7 @@ and their open source clones ...
 ### Prince of Persia
 
    * [PrinceJS](https://ultrabolido.wordpress.com/2015/04/25/princejs-all-levels-implemented/) (Javascript, Phaser)
+
+### Worms
+
+   * [Hedgewars](https://github.com/hedgewars/hw) (C++, Pascal, Lua, QT)
