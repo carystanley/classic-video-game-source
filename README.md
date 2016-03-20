@@ -1,5 +1,7 @@
 # Nostalgic Video Games
 
+and their open source clones ...
+
 ## SNES
 
 ### The Legend of Zelda: A Link to the Past
