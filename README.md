@@ -8,6 +8,7 @@ and their open source clones ...
 
    * [javascript-racer](https://github.com/jakesgordon/javascript-racer) (Javascript)
    * [Cannonball](https://github.com/djyt/cannonball) (C++)
+   * [Canninball JS](http://www.massdestruction.co.uk/cannonball/) (Javascript)
 
 ## NES
 
