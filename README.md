@@ -1,5 +1,11 @@
 # Nostalgic Video Games
 
+## SNES
+
+### The Legend of Zelda: A Link to the Past
+
+   * [Solarus](https://github.com/christopho/solarus) (C++ + Lua)
+
 ## PC
 
 ### Wolfenstein 3D
