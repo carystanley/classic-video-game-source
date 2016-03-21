@@ -28,10 +28,14 @@ and their open source clones ...
 
 ## Mac/PC
 
-
 ### Bolo
 
    * [orona](https://github.com/stephank/orona) (Javascript)
+
+### Glider
+
+   * [Glider Pro](https://github.com/softdorothy/glider_pro) (C) [The Actual Source!!]
+   * [Glider 4](https://github.com/softdorothy/glider_4) (Pascal) [The Actual Source!!]
 
 ### Prince of Persia
 
