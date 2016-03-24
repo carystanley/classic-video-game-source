@@ -6,19 +6,19 @@ and their open source clones ...
 
 ### Pacman
 
-   * [Pac-Man a tribute project](http://pacman.shaunew.com/) (Javascript)
+   * [Pac-Man a tribute project](http://pacman.shaunew.com/) (HTML5, Javascript)
 
 ### Outrun
 
-   * [javascript-racer](https://github.com/jakesgordon/javascript-racer) (Javascript)
+   * [javascript-racer](https://github.com/jakesgordon/javascript-racer) (HTML5, Javascript)
    * [Cannonball](https://github.com/djyt/cannonball) (C++)
-   * [Canninball JS](http://www.massdestruction.co.uk/cannonball/) (Javascript)
+   * [Canninball JS](http://www.massdestruction.co.uk/cannonball/) (HTML5, Javascript)
 
 ## NES
 
 ### Super Mario Bros. 3
 
-   * [mariohtml5](https://github.com/robertkleffner/mariohtml5) (Javascript)
+   * [mariohtml5](https://github.com/robertkleffner/mariohtml5) (HTML5, Javascript)
 
 ## SNES
 
@@ -30,7 +30,7 @@ and their open source clones ...
 
 ### Bolo
 
-   * [orona](https://github.com/stephank/orona) (Javascript)
+   * [orona](https://github.com/stephank/orona) (HTML5, Javascript)
 
 ### Glider
 
@@ -39,11 +39,11 @@ and their open source clones ...
 
 ### Prince of Persia
 
-   * [PrinceJS](https://ultrabolido.wordpress.com/2015/04/25/princejs-all-levels-implemented/) (Javascript, Phaser)
+   * [PrinceJS](https://ultrabolido.wordpress.com/2015/04/25/princejs-all-levels-implemented/) (HTML5, Javascript, Phaser)
 
 ### Wolfenstein 3D
 
-   * [html5-wolfenstein3D](https://github.com/loadx/html5-wolfenstein3D) (Javascript)
+   * [html5-wolfenstein3D](https://github.com/loadx/html5-wolfenstein3D) (HTML5, Javascript)
 
 ### Worms
 
