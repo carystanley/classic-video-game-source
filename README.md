@@ -1,4 +1,4 @@
-# Nostalgic Video Games
+# Classic Video Games
 
 and their open source clones ...
 
