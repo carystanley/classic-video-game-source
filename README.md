@@ -26,6 +26,10 @@ and their open source clones ...
 
    * [Solarus](https://github.com/christopho/solarus) (C++, Lua)
 
+### Megaman
+
+   * [MegamanJS](https://github.com/pomle/megamanjs/tree/master/src) (HTML5, Javascript)
+
 ## Mac/PC
 
 ### Bolo
