@@ -20,15 +20,15 @@ and their open source clones ...
 
    * [mariohtml5](https://github.com/robertkleffner/mariohtml5) (HTML5, Javascript)
 
+### Megaman
+
+   * [MegamanJS](https://github.com/pomle/megamanjs/tree/master/src) (HTML5, Javascript)
+
 ## SNES
 
 ### The Legend of Zelda: A Link to the Past
 
    * [Solarus](https://github.com/christopho/solarus) (C++, Lua)
-
-### Megaman
-
-   * [MegamanJS](https://github.com/pomle/megamanjs/tree/master/src) (HTML5, Javascript)
 
 ## Mac/PC
 
