@@ -52,3 +52,8 @@ and their open source clones ...
 ### Worms
 
    * [Hedgewars](https://github.com/hedgewars/hw) (C++, Pascal, Lua, QT)
+
+### SimCity
+
+   * [citybuilder](https://github.com/Piepenguin1995/citybuilder) (C++)
+   * [MicropolisJS](https://github.com/graememcc/micropolisJS) (JS)
