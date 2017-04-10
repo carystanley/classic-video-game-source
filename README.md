@@ -6,7 +6,7 @@ and their open source clones ...
 
 ### Pacman
 
-   * [Pac-Man a tribute project](http://pacman.shaunew.com/) (HTML5, Javascript)
+   * [Pac-Man a tribute project](https://github.com/masonicGIT/pacman/) (HTML5, Javascript)
 
 ### Outrun
 
