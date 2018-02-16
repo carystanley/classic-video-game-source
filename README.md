@@ -16,10 +16,13 @@ and their open source clones ...
 
 ## NES
 
+### Super Mario Bros.
+
+   * [Mario C++](https://github.com/MitchellSternke/Mario) (C++, SDL)
+ 
 ### Super Mario Bros. 3
 
    * [mariohtml5](https://github.com/robertkleffner/mariohtml5) (HTML5, Javascript)
-   * [Mario C++](https://github.com/MitchellSternke/Mario) (C++, SDL)
 
 ### Megaman
 
